@@ -2,8 +2,8 @@
 
  Débutez l'exercice en inscrivant vos Prénom et nom :
 
- - Prénom : 
- - Nom : 
+ - Prénom : Mathieu
+ - Nom : Boily
 
  Cochez les activités que vous avez réalisées avant de vous rendre ici (Pour cocher une activité, remplacez [ ] par [x]) :
 
